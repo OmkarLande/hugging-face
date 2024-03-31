@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    display: grid;
+    background: #212121;
+    place-items: center;
+    padding-top: 42px;
+}
+
+.image {
+    width: 600px;
+    height: 500px;
+}
+
+#hugging{
+    width: 100;
+    height: 100;
+}

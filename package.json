@@ -1,0 +1,16 @@
+{
+  "name": "project",
+  "dependencies": {
+    "@huggingface/hub": "^0.14.6",
+    "@huggingface/inference": "2.6.1"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
